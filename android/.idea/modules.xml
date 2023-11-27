@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KokuaApp.iml" filepath="$PROJECT_DIR$/.idea/modules/KokuaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KokuaApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.iml" filepath="$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.main.iml" filepath="$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/983802830/KokuaApp.react-native-bootsplash.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1905066022/KokuaApp.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1155106930/KokuaApp.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/890227151/KokuaApp.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-960157016/KokuaApp.sentry_react-native.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1345516740/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1345516740/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1345516740/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1345516740/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1345516740/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1345516740/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20C0 31.0457 8.95431 40 20 40Z" fill="#F0F1F5"/>
+<mask id="mask0_1_6136" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="40" height="40">
+<path d="M20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20C0 31.0457 8.95431 40 20 40Z" fill="#F0F1F5"/>
+</mask>
+<g mask="url(#mask0_1_6136)">
+</g>
+<path d="M23.9244 24.6372H16.126" stroke="#848DA9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.9244 20.0892H16.126" stroke="#848DA9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.1027 15.5516H16.127" stroke="#848DA9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.132 10C24.132 10 15.84 10.0043 15.827 10.0043C12.8459 10.0228 11 11.9957 11 15.0049V24.9951C11 28.0196 12.8599 30 15.867 30C15.867 30 24.1579 29.9967 24.1719 29.9967C27.153 29.9783 29 28.0043 29 24.9951V15.0049C29 11.9804 27.139 10 24.132 10Z" stroke="#848DA9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

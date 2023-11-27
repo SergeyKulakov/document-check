@@ -1,0 +1,24 @@
+{
+  "name": "stripe-identity-react-native",
+  "version": "0.1.1",
+  "summary": "Stripe identity react native SDK library",
+  "homepage": "https://github.com/stripe/stripe-identity-react-native#readme",
+  "license": "MIT",
+  "authors": "Mateusz Skwierczyński <mateusz.skwierczynski@callstack.com> (https://github.com/mskwierczynski)",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://github.com/stripe/stripe-identity-react-native.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "StripeIdentity": [
+      "~> 22.1"
+    ]
+  }
+}

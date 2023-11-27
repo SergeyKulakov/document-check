@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kokuaapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/sergey/kokua-mobile-application/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/sergey/kokua-mobile-application/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/sergey/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/sergey/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[:sentry_react-native] /Users/sergey/kokua-mobile-application/node_modules/@sentry/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+14-->[:sentry_react-native] /Users/sergey/kokua-mobile-application/node_modules/@sentry/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+15
+16    <application
+16-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:6:5-25:19
+17        android:name="com.kokuaapp.MainApplication"
+17-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:7:7-38
+18        android:allowBackup="false"
+18-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:11:7-34
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] /Users/sergey/.gradle/caches/transforms-3/63a3df243d2d102452600006144a86df/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:9:7-41
+23        android:label="@string/app_name"
+23-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:8:7-39
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:10:7-52
+25        android:testOnly="true"
+26        android:theme="@style/BootTheme"
+26-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:12:7-39
+27        android:usesCleartextTraffic="true" >
+27-->/Users/sergey/kokua-mobile-application/android/app/src/debug/AndroidManifest.xml:8:9-44
+28        <activity
+28-->/Users/sergey/kokua-mobile-application/android/app/src/debug/AndroidManifest.xml:11:9-111
+29            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+29-->/Users/sergey/kokua-mobile-application/android/app/src/debug/AndroidManifest.xml:11:19-83
+30            android:exported="false" />
+30-->/Users/sergey/kokua-mobile-application/android/app/src/debug/AndroidManifest.xml:11:84-108
+31        <activity
+31-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:13:7-24:18
+32            android:name="com.kokuaapp.MainActivity"
+32-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:14:9-37
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+33-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:16:9-118
+34            android:exported="true"
+34-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:19:9-32
+35            android:label="@string/app_name"
+35-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:15:9-41
+36            android:launchMode="singleTask"
+36-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:17:9-40
+37            android:windowSoftInputMode="adjustResize" >
+37-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:18:9-51
+38            <intent-filter>
+38-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:20:9-23:25
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:21:13-65
+39-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:21:21-62
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:22:13-73
+41-->/Users/sergey/kokua-mobile-application/android/app/src/main/AndroidManifest.xml:22:23-70
+42            </intent-filter>
+43        </activity>
+44
+45        <meta-data
+45-->[:sentry_react-native] /Users/sergey/kokua-mobile-application/node_modules/@sentry/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-15:37
+46            android:name="io.sentry.auto-init"
+46-->[:sentry_react-native] /Users/sergey/kokua-mobile-application/node_modules/@sentry/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+47            android:value="false" />
+47-->[:sentry_react-native] /Users/sergey/kokua-mobile-application/node_modules/@sentry/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-34
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+51            android:authorities="com.kokuaapp.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/sergey/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/sergey/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/sergey/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/sergey/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+59        </provider> <!-- 'android:authorities' must be unique in the device, across all apps -->
+60        <provider
+60-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:14:9-17:40
+61            android:name="io.sentry.android.core.SentryInitProvider"
+61-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:15:13-69
+62            android:authorities="com.kokuaapp.SentryInitProvider"
+62-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:16:13-70
+63            android:exported="false" />
+63-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:17:13-37
+64        <provider
+64-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:18:9-22:39
+65            android:name="io.sentry.android.core.SentryPerformanceProvider"
+65-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:19:13-76
+66            android:authorities="com.kokuaapp.SentryPerformanceProvider"
+66-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:20:13-77
+67            android:exported="false"
+67-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:21:13-37
+68            android:initOrder="200" />
+68-->[io.sentry:sentry-android-core:6.4.2] /Users/sergey/.gradle/caches/transforms-3/47bdc758265bf8946d1d2201631caacb/transformed/jetified-sentry-android-core-6.4.2/AndroidManifest.xml:22:13-36
+69    </application>
+70
+71</manifest>

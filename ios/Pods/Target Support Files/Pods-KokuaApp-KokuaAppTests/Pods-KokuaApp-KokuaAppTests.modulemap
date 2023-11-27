@@ -1,0 +1,6 @@
+module Pods_KokuaApp_KokuaAppTests {
+  umbrella header "Pods-KokuaApp-KokuaAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

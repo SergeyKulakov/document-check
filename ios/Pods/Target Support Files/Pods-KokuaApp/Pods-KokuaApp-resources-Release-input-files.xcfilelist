@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-KokuaApp/Pods-KokuaApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeCore/StripeCore.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeIdentity/StripeIdentity.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeUICore/StripeUICore.bundle

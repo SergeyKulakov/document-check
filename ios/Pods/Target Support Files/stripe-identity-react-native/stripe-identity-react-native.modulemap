@@ -1,0 +1,6 @@
+module stripe_identity_react_native {
+  umbrella header "stripe-identity-react-native-umbrella.h"
+
+  export *
+  module * { export * }
+}
