@@ -1,4 +1,5 @@
-# Kokua App
+# Document Check
+
 
 This application is based on [React Native](https://reactnative.dev/) framework. It was using the React Native CLI, using the Typescript template, as documented [here](https://reactnative.dev/docs/typescript).
 
